@@ -1,4 +1,4 @@
-# Demo
+# Demo กำลังจะปรับปรุงใหม่ครับ
 [https://earthchie.github.io/jquery.Thailand.js/](https://earthchie.github.io/jquery.Thailand.js/)
 
 ## jquery.Thailand.js
